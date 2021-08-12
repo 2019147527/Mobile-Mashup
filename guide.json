@@ -1,0 +1,114 @@
+[
+    {
+        "name" : "구승본",
+        "latitude" : "37.569",
+        "longitude" : "126.966",
+        "tag" : ["맛집", "운동", "친근" ],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "우지훈",
+        "latitude" : "37.569",
+        "longitude" : "126.959",
+        "tag" : ["맛집","인스타","활발"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "박지예",
+        "latitude" : "37.4965",
+        "longitude" : "127.0164",
+        "tag" : ["저녁", "카페", "브런치"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "박하영",
+        "latitude" : "37.4950",
+        "longitude" : "127.0264",
+        "tag" : ["점심", "카페", "인스타"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "조광현",
+        "latitude" : "37.4923",
+        "longitude" : "127.0084",
+        "tag" : ["저녁", "볼링", "인스타"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "김범석",
+        "latitude" : "37.4903",
+        "longitude" : "127.0142",
+        "tag" : ["아침", "술집", "양궁"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "김태건",
+        "latitude" : "37.397",
+        "longitude" : "127.24",
+        "tag" : ["점심", "술집", "야경"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "노도원",
+        "latitude" : "36.412",
+        "longitude" : "128.3",
+        "tag" : ["아침", "일식", "젤라또"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "손영인",
+        "latitude" : "37.132",
+        "longitude" : "127.9",
+        "tag" : ["저녁", "궁궐", "보드게임"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "이민영",
+        "latitude" : "37.569",
+        "longitude" : "127.11",
+        "tag" : ["점심", "등산", "빙수"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "윤영철",
+        "latitude" : "36.421",
+        "longitude" : "127.1",
+        "tag" : ["아침", "카페", "한식"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "이승연",
+        "latitude" : "37.3",
+        "longitude" : "127.7",
+        "tag" : ["저녁", "중식", "만두"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "임소영",
+        "latitude" : "36.1",
+        "longitude" : "127.8",
+        "tag" : ["점심", "카페", "술집"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "이준범",
+        "latitude" : "37.312",
+        "longitude" : "127.4",
+        "tag" : ["점심", "한식", "경복궁"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "한재준",
+        "latitude" : "37.125",
+        "longitude" : "126.7",
+        "tag" : ["저녁", "일식", "카페"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    },
+    {
+        "name" : "황성혁",
+        "latitude" : "35.8",
+        "longitude" : "127.6",
+        "tag" : ["점심", "바다", "조개구이"],
+        "chat" : "https://open.kakao.com/o/sZNc5Whd"
+    }
+  ]
